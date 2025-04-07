@@ -1,0 +1,6 @@
+@PlayCafe_HostAddress = http://localhost:5283
+
+GET {{PlayCafe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
