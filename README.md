@@ -8,7 +8,7 @@ This guide provides step-by-step instructions for setting up and starting the pr
 
 Ensure the following are installed on your system:
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [Node.js](https://nodejs.org/) (LTS version recommended)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [Entity Framework Core CLI](https://learn.microsoft.com/en-us/ef/core/cli/dotnet)
